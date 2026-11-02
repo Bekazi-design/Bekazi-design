@@ -129,7 +129,7 @@ My personal website showcasing my development journey, technical skills and proj
 I'm open to graduate opportunities, internships, collaborations and opportunities to contribute to meaningful software projects.
 
 <p align="center">
-<a href="mailto:BekaziP@gmail.com">
+<a href="mailto:bekazip@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/bekazi-mavunda/">
